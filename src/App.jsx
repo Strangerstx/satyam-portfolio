@@ -795,7 +795,7 @@ function App() {
             <div className="timeline-content">
 
               <h3>
-                Ramakrishna Mission School
+                R K Mission School
               </h3>
 
               <p>
